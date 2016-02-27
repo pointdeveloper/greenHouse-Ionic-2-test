@@ -18,7 +18,9 @@
   },
   "name": "greentest2",
   "description": "greenTest2: An Ionic project",
-  "cordovaPlugins": [],
+  "cordovaPlugins": [
+    "cordova-plugin-whitelist"
+  ],
   "cordovaPlatforms": [
     "android"
   ]
